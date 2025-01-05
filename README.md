@@ -57,6 +57,7 @@ ALLOWED_HOSTS = ['*']
 
 # Настройка электронной почты
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+```
 
 # Настройки сторонних сервисов
 Этот файл потребуется настроить согласно вашему окружению.
